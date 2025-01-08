@@ -7,10 +7,9 @@
 ### 👨🏻‍💻 &nbsp;Who am i?
 
 💡 &nbsp;Coding isn't just a skill; it's my favorite way to solve problems and innovate.\
-🎓 &nbsp;Cryptocurrency development, leveraging advanced blockchain technologies to create innovative and secure solutions.\
+🎓 &nbsp;Cryptocurrency development, leveraging advanced blockchain technologies to create profitable and secure solutions.\
 🌱 &nbsp;Currently advancing my knowledge in Computer Science with a focus on vision-based AI, machine architecture, and automation.\
 ✍️ &nbsp;In my free time, I enjoy exploring VFX, graphics, and video editing, blending technical expertise with artistic expression.\
-🐦 &nbsp;Crazy in love with all sorts of animals.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at me@hummer.vip! I'll try to respond as soon as I can.\
 
