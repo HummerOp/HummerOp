@@ -11,7 +11,7 @@
 🌱 &nbsp;Currently advancing my knowledge in Computer Science with a focus on vision-based AI, machine architecture, and automation.\
 ✍️ &nbsp;In my free time, I enjoy exploring VFX, graphics, and video editing, blending technical expertise with artistic expression.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at me@hummer.vip! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at me@hummer.vip! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/HummerOp/HummerOp/refs/heads/main/assets/giphy.gif" align="right"/>
 
